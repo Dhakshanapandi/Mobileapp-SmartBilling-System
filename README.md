@@ -1,50 +1,43 @@
-# Welcome to your Expo app 👋
+# 📱 Smart Billing System (Admin – Mobile App)
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A **React Native mobile application** designed exclusively for **Admins** to manage and monitor billing operations with ease.  
+Built with **React Native (Expo)**, this app provides a simple yet powerful way for admins to handle invoices, users, and sales reports directly from their mobile device.  
 
-## Get started
+---
 
-1. Install dependencies
+## ✨ Features (Admin Only)
 
-   ```bash
-   npm install
-   ```
+- 📊 **Dashboard Overview** – Get insights into total sales, revenue, and invoices.  
+- 🧾 **Invoice Management** – Create, edit, and track invoices on the go.  
+- 👥 **User/Staff Management** – Add, update, or remove staff with controlled access.  
+- 📈 **Sales Reports & Analytics** – Visual charts and reports for informed decision-making.  
+- 🔒 **Secure Authentication** – Ensures data privacy and restricted access.  
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## 🛠 Tech Stack
 
-In the output, you'll find options to open the app in a
+- **Frontend:** React Native (Expo)  
+- **Backend (API):** Node.js / Express  
+- **Database:** MongoDB / Firebase  
+- **Authentication:** JWT / Firebase Auth  
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 📸 Screenshots  
 
-## Get a fresh project
+<div align="center">
 
-When you're ready, run:
+  <img src="https://github.com/user-attachments/assets/e63c1362-2e5c-42f4-9f5e-59b8ce1289fa" width="45%" alt="Dashboard Screenshot" />
+  <img src="https://github.com/user-attachments/assets/7d708639-b830-4e8d-af57-b809fa6cf42b" width="45%" alt="Invoice Management Screenshot" />
 
-```bash
-npm run reset-project
-```
+</div>
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+<div align="center">
 
-## Learn more
+  <img src="https://github.com/user-attachments/assets/aedb54d5-5b0d-4fe8-9fbb-0959021bc9e5" width="45%" alt="Sales Report Screenshot" />
+  <img src="https://github.com/user-attachments/assets/335c77b3-3128-4151-aafb-2f7b4b27cb14" width="45%" alt="User Management Screenshot" />
 
-To learn more about developing your project with Expo, look at the following resources:
+</div>
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
 
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
